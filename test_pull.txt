@@ -1,3 +1,7 @@
 test_pull
 test_push
+
 test_conflict2
+
+test_conflict1
+
